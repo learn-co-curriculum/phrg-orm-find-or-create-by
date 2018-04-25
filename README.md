@@ -172,4 +172,4 @@ Although we called `#find_or_create_by` twice *with the same data* (gasp!), we o
 
 * [Video Review- Codealong: Building a Room Scraper and ORM](https://www.youtube.com/watch?v=1eIgKGukBlg) 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/orm-find-or-create-by' title='ORM: Preventing Record Duplication'>ORM: Preventing Record Duplication</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG ORM: Preventing Record Duplication</p>
